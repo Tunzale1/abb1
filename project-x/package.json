@@ -1,0 +1,20 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Imanova Tunzala / ABB tech full stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js "
+  },
+  "author": "Tunzala",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
