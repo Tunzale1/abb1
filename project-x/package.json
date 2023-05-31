@@ -16,5 +16,9 @@
   "dependencies": {
     "bootstrap": "^5.2.3",
     "moment": "^2.29.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tunzale1/abb1.git"
   }
 }
